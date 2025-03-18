@@ -3,6 +3,10 @@
     {
       "structure": "littlestructure:statue",
       "weight": 1
+    },
+    {
+      "structure": "littlestructure:ruin1",
+      "weight": 1
     }
   ],
   "placement": {
