@@ -9,9 +9,9 @@
   "start_pool": "littlestructure:netherruin_chest",
   "size": 1,
   "start_height": {
-    "absolute": 0
+    "above_bottom": 30
   },
-  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "project_start_to_heightmap": "NONE",
   "max_distance_from_center": 1,
   "use_expansion_hack": false
 }
