@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "littlestructure:netherruin_chest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 45,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 42
+  }
+}

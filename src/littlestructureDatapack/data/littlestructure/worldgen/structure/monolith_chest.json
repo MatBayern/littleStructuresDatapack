@@ -1,14 +1,14 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "minecraft:plains",
-    "minecraft:snowy_plains",
-    "minecraft:sunflower_plains"
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:snowy_taiga"
   ],
   "step": "surface_structures",
   "terrain_adaptation": "none",
   "spawn_overrides": {},
-  "start_pool": "littlestructure:statue",
+  "start_pool": "littlestructure:monolith_chest",
   "size": 1,
   "start_height": {
     "absolute": 0

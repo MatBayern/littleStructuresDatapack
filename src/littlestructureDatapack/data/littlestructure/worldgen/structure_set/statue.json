@@ -5,14 +5,22 @@
       "weight": 1
     },
     {
-      "structure": "littlestructure:ruin1",
+      "structure": "littlestructure:statue_chest",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:forest_statue_chest",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:jungle_statue_chest",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 25,
-    "separation": 5,
+    "spacing": 35,
+    "separation": 10,
     "spread_type": "triangular",
     "salt": 42
   }

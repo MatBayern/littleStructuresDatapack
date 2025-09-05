@@ -1,13 +1,14 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "minecraft:jungle",
-    "minecraft:bamboo_jungle"
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:sunflower_plains"
   ],
   "step": "surface_structures",
   "terrain_adaptation": "none",
   "spawn_overrides": {},
-  "start_pool": "littlestructure:ruin1",
+  "start_pool": "littlestructure:statue_chest",
   "size": 1,
   "start_height": {
     "absolute": 0
