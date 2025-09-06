@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "littlestructure:ruin",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:ruin_chest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 15,
+    "spread_type": "triangular",
+    "salt": 42
+  }
+}
