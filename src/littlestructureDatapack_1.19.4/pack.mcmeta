@@ -1,0 +1,19 @@
+{
+	"pack": {
+		"pack_format": 12,
+		"supported_formats": {
+			"min_inclusive": 12,
+			"max_inclusive": 18
+		},
+		"description": [
+			{
+				"text": "Adds several small structures around the world",
+				"color": "green"
+			},
+			{
+				"text": "\nvanillatweaks.net",
+				"color": "gray"
+			}
+		]
+	}
+}
