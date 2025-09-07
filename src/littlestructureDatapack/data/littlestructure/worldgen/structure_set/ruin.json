@@ -11,6 +11,30 @@
     {
       "structure": "littlestructure:monolith_chest",
       "weight": 1
+    },
+    {
+      "structure": "littlestructure:wall_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:small_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:campfire_off",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:campfire_on",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:desert_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:mesa_ruin",
+      "weight": 1
     }
   ],
   "placement": {

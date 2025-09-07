@@ -5,11 +5,19 @@
       "weight": 1
     },
     {
+      "structure": "littlestructure:red_mushroomhut",
+      "weight": 1
+    },
+    {
       "structure": "littlestructure:graveyard",
       "weight": 1
     },
     {
       "structure": "littlestructure:oasis",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:campsite",
       "weight": 1
     }
   ],

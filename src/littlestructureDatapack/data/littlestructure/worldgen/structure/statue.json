@@ -6,7 +6,7 @@
     "minecraft:sunflower_plains"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "littlestructure:statue",
   "size": 1,

@@ -3,7 +3,8 @@
   "biomes": [
     "minecraft:old_growth_spruce_taiga",
     "minecraft:old_growth_pine_taiga",
-    "minecraft:snowy_taiga"
+    "minecraft:snowy_taiga",
+    "minecraft:savanna"
   ],
   "step": "surface_structures",
   "terrain_adaptation": "none",
