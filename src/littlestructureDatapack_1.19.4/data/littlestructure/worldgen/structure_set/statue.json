@@ -5,7 +5,7 @@
       "weight": 1
     },
     {
-      "structure": "littlestructure:statue_chest",
+      "structure": "littlestructure:ceremonial_statue",
       "weight": 1
     },
     {
@@ -14,6 +14,18 @@
     },
     {
       "structure": "littlestructure:jungle_statue_chest",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:rose_statue",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:wizard_statue",
+      "weight": 1
+    },
+    {
+      "structure": "littlestructure:knight_statue",
       "weight": 1
     }
   ],

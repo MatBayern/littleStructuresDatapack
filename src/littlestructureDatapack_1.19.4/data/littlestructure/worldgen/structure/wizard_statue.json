@@ -7,7 +7,7 @@
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "littlestructure:forest_statue_chest",
+  "start_pool": "littlestructure:wizard_statue",
   "size": 1,
   "start_height": {
     "absolute": 0

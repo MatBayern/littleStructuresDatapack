@@ -1,13 +1,10 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": [
-    "minecraft:forest",
-    "minecraft:flower_forest"
-  ],
+  "biomes": "minecraft:badlands",
   "step": "surface_structures",
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "none",
   "spawn_overrides": {},
-  "start_pool": "littlestructure:forest_statue_chest",
+  "start_pool": "littlestructure:mesa_ruin",
   "size": 1,
   "start_height": {
     "absolute": 0
