@@ -14,6 +14,6 @@
     "spacing": 45,
     "separation": 25,
     "spread_type": "triangular",
-    "salt": 1337
+    "salt": 42
   }
 }
