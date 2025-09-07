@@ -1,21 +1,21 @@
 {
   "structures": [
     {
-      "structure": "littlestructure:ruin",
+      "structure": "littlestructure:brown_mushroomhut",
       "weight": 1
     },
     {
-      "structure": "littlestructure:ruin_chest",
+      "structure": "littlestructure:graveyard",
       "weight": 1
     },
     {
-      "structure": "littlestructure:monolith_chest",
+      "structure": "littlestructure:oasis",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 35,
+    "spacing": 45,
     "separation": 15,
     "spread_type": "triangular",
     "salt": 42
