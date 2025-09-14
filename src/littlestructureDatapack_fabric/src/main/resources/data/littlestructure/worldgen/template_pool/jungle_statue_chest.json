@@ -1,5 +1,5 @@
 {
-  "name": "littlestructure:jungle_statue_chest",
+  "name": "littlestructure:gold_statue",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "littlestructure:jungle_statue_chest",
+        "location": "littlestructure:gold_statue",
         "processors": "minecraft:empty",
         "override_liquid_settings": "ignore_waterlogging"
       }

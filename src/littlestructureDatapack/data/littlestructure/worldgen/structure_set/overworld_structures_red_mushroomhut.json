@@ -1,15 +1,15 @@
 {
   "structures": [
     {
-      "structure": "littlestructure:nether_ruin",
+      "structure": "littlestructure:red_mushroomhut",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 20,
-    "separation": 8,
+    "spacing": 45,
+    "separation": 15,
     "spread_type": "triangular",
-    "salt": 42331
+    "salt": 1337
   }
 }

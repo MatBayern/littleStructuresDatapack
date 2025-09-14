@@ -1,7 +1,7 @@
 {
   "structures": [
     {
-      "structure": "littlestructure:statue",
+      "structure": "littlestructure:crystal_statue",
       "weight": 1
     },
     {
@@ -9,11 +9,11 @@
       "weight": 1
     },
     {
-      "structure": "littlestructure:forest_statue_chest",
+      "structure": "littlestructure:iron_statue",
       "weight": 1
     },
     {
-      "structure": "littlestructure:jungle_statue_chest",
+      "structure": "littlestructure:gold_statue",
       "weight": 1
     },
     {

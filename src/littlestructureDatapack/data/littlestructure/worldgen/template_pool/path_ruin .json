@@ -1,13 +1,13 @@
 {
-  "name": "littlestructure:netherruin_chest",
+  "name": "littlestructure:path_ruin",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "projection": "rigid",
-        "location": "littlestructure:netherruin_chest",
+        "projection": "terrain_matching",
+        "location": "littlestructure:path_ruin",
         "processors": "minecraft:empty",
         "override_liquid_settings": "ignore_waterlogging"
       }
