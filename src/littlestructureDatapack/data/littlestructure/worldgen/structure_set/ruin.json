@@ -5,11 +5,11 @@
       "weight": 1
     },
     {
-      "structure": "littlestructure:path_ruin",
+      "structure": "littlestructure:ruin_chest",
       "weight": 1
     },
     {
-      "structure": "littlestructure:monolith_ruin",
+      "structure": "littlestructure:monolith_chest",
       "weight": 1
     },
     {

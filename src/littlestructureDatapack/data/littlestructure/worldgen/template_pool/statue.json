@@ -1,5 +1,5 @@
 {
-  "name": "littlestructure:crystal_statue",
+  "name": "littlestructure:statue",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "littlestructure:crystal_statue",
+        "location": "littlestructure:statue",
         "processors": "minecraft:empty",
         "override_liquid_settings": "ignore_waterlogging"
       }

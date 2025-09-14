@@ -1,13 +1,13 @@
 {
-  "name": "littlestructure:gold_statue",
+  "name": "littlestructure:monolith_chest",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "projection": "rigid",
-        "location": "littlestructure:gold_statue",
+        "projection": "terrain_matching",
+        "location": "littlestructure:monolith_chest",
         "processors": "minecraft:empty",
         "override_liquid_settings": "ignore_waterlogging"
       }
