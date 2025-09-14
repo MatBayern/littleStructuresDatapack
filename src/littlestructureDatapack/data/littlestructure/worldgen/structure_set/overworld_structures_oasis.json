@@ -9,7 +9,9 @@
     "type": "minecraft:random_spread",
     "spacing": 45,
     "separation": 15,
-    "spread_type": "triangular",
-    "salt": 365446
+    "spread_type": "linear",
+    "salt": 3654346,
+    "predicate": "littlestructure:desert"
   }
+
 }
