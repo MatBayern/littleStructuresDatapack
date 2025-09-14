@@ -4,7 +4,7 @@
     "minecraft:swamp"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "beard_thin",
+  "terrain_adaptation": "beard_box",
   "spawn_overrides": {},
   "start_pool": "littlestructure:graveyard",
   "size": 1,

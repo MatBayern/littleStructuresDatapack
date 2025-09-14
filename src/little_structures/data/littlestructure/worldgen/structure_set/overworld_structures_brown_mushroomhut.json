@@ -8,9 +8,9 @@
   "placement": {
     "type": "minecraft:random_spread",
     "spacing": 45,
-    "separation": 15,
+    "separation": 20,
     "spread_type": "linear",
     "salt": 139100,
-    "predicate": "no_water"
+    "predicate": "littlestructure:no_water"
   }
 }

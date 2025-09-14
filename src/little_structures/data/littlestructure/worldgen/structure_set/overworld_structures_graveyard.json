@@ -7,10 +7,11 @@
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 45,
-    "separation": 15,
+    "spacing": 80,
+    "separation": 40,
     "spread_type": "linear",
     "salt": 652736,
-    "predicate": "no_water"
+    "predicate": ["littlestructure:no_water","littlestructure:gras"],
+    "locate_offset" : [0,0,0]
   }
 }
