@@ -11,7 +11,7 @@
     "separation": 15,
     "spread_type": "linear",
     "salt": 3654346,
-    "predicate": "littlestructure:desert"
+    "predicate": ["littlestructure:desert","littlestructure:no_water"]
   }
 
 }

@@ -10,6 +10,7 @@
     "spacing": 45,
     "separation": 15,
     "spread_type": "linear",
-    "salt": 143896
+    "salt": 143896,
+    "predicate": "no_water"
   }
 }
