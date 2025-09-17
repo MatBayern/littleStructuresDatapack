@@ -35,6 +35,10 @@
     "separation": 20,
     "spread_type": "linear",
     "salt": 123123,
-    "predicate": "littlestructure:no_water"
+    "predicate": "littlestructure:no_water",
+    "exclusion_zone": {
+      "other_set": "minecraft:ruined_portals",
+      "chunk_count": 4
+    }
   }
 }
